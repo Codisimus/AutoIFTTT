@@ -1,0 +1,26 @@
+{
+  "base_url": "http://0.0.0.0:8888/",
+  "token": "1234",
+  "applets": [
+    {
+      "name": "Sample",
+      "path": "doThing?token=1234",
+      "triggers": [
+        "do the thing",
+        "do something",
+        "do anything",
+        "do the dew"
+      ],
+      "response": "Ok, I'll do the thing"
+    },
+    {
+      "name": "Sample 2",
+      "path": "doOtherThing?token=1234",
+      "triggers": [
+        "do $",
+        "execute $"
+      ],
+      "response": "Ok, doing $"
+    }
+  ]
+}
