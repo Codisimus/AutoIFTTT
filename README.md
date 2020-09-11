@@ -1,5 +1,5 @@
 # AutoIFTTT
-Automatically create/update [IFTTT](ifttt.com) applets without using the web UI.
+Automatically create/update [IFTTT](https://ifttt.com/) applets without using the web UI.
 
 ## Purpose
 Creating applets for IFTTT can be a painful process. It requires a lot of typing and clicking and the web UI has the following limitations:
